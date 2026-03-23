@@ -1,5 +1,5 @@
-//Faça um programa que leia um número inteiro N e que indique quantos valores
-//inteiros e positivos devem ser lidos a seguir. Para cada número lido, mostre o valor lido
+//FaÃ§a um programa que leia um nÃºmero inteiro N e que indique quantos valores
+//inteiros e positivos devem ser lidos a seguir. Para cada nÃºmero lido, mostre o valor lido
 //e o fatorial desse valor. Conforme a entrada a seguir
 
 #include<stdio.h>
